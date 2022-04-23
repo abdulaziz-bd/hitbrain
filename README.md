@@ -2,7 +2,7 @@
 
 
 
-![timelinecovers.pro](https://assets.pinterest.com/ext/embed.html?id=718183471814387485)
+![timelinecovers.pro](https://raw.githubusercontent.com/hitbrain/MdAbdulAziz/main/b6d9e4bb3642d036a207f7a83b2f9128.jpg)
 
 
 I'm a programmer who enjoys working on open source projects and contributing to the development of a community. Making new python projects is one of my favorite things to do. In HackerRank, I occasionally code. In addition, I work on machine learning, deep learning, and natural language processing projects. Programming is a love-hate relationship for me.
